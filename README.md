@@ -17,15 +17,14 @@ This project analyzes job postings to identify the most in-demand jobs, hiring t
 * BeautifulSoup
 * Pandas
 * Microsoft Excel
-* Tableau or Power BI
+* Tableau 
 * GitHub
 
 ## Workflow
 
-1. Web Scraping
-2. Data Cleaning
-3. Data Visualization
-4. Dashboard Creation
+1. Web Scraping: Web scraping of data and data organization with Python 👉[Notebook process](webscraping_jobdata.ipynb)
+2. Data Cleaning: Data cleaned with Microsoft Excel 👉[Cleaned data](cleaned-webs-dataset.xlsx)
+4. Dashboard Creation: Dashboard developed with Tableau 👉[Dashboard image](dashboard-image.png)
 5. Insight Generation
 
 ## Derived Insights
