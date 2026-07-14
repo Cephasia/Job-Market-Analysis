@@ -27,6 +27,7 @@ This project analyzes job postings to identify the most in-demand jobs, hiring t
 2. Data Cleaning: Data cleaned with Microsoft Excel 👉
 - [Cleaned data](cleaned-webs-job-dataset.xlsx)
 3. Dashboard Creation: Dashboard developed with Tableau 👉
+  [GoTo](dashboard-image.png)
 - ![Dashboard image](dashboard-image.png)
 
 ## Derived Insights
