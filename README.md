@@ -1,4 +1,4 @@
-# Job-Market-Analysis 1
+# Job-Market-Analysis
 
 ## Project Overview
 
@@ -22,10 +22,12 @@ This project analyzes job postings to identify the most in-demand jobs, hiring t
 
 ## Workflow
 
-1. Web Scraping: Web scraping of data and data organization with Python 👉[Notebook process](webscraping_jobdata.ipynb)
-2. Data Cleaning: Data cleaned with Microsoft Excel 👉[Cleaned data](cleaned-webs-job-dataset.xlsx)
-4. Dashboard Creation: Dashboard developed with Tableau 👉[Dashboard image](dashboard-image.png)
-5. Insight Generation
+1. Web Scraping: Web scraping of data and data organization with Python 👉
+- [Notebook process](webscraping_jobdata.ipynb)
+2. Data Cleaning: Data cleaned with Microsoft Excel 👉
+- [Cleaned data](cleaned-webs-job-dataset.xlsx)
+3. Dashboard Creation: Dashboard developed with Tableau 👉
+- ![Dashboard image](dashboard-image.png)
 
 ## Derived Insights
 
@@ -36,3 +38,5 @@ This project analyzes job postings to identify the most in-demand jobs, hiring t
 ## Quick Note!⚠ 
 
 The findings from this project is not from a real world job postings, this is all done for self improvement. But stay tuned because another job market analysis will be dropped soon, most especially for Data Science and Analysis Job role😊😊. 
+
+     Opeyemi (Ismail) Peter 
